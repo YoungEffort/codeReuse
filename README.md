@@ -1,13 +1,13 @@
-#A project for code reuse
+# A project for code reuse
 
-##Directory
+## Directory
 
 * httpservice
 
 * httpinterceptor
 
 
-###httpservice
+### httpservice
 
 ```javascript
     import axios from 'axios'
@@ -60,7 +60,7 @@
     };
 ```
 
-###httpinterceptor
+### httpinterceptor
 
 ```javascript
     import {Indicator,Toast} from 'mint-ui'
